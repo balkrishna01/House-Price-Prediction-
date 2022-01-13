@@ -15,3 +15,5 @@ Model outputs
 		Mean : 3.3352673787883895
 		Standard Deviation : 0.7379533463439707
 		
+
+ 	Randomm forest Regression Output is best.
